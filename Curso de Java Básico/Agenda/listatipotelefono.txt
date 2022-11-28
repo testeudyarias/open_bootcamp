@@ -1,0 +1,1 @@
+{"listTipoTelefono":[{"nombre":"WHATSAPP"},{"nombre":"OFICINA"},{"nombre":"CASA"},{"nombre":"NEGOCIO"},{"nombre":"CELULAR"},{"nombre":"TRABAJO"},{"nombre":"SECUNDARIO TRABAJO"}]}
